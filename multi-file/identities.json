@@ -1,39 +1,41 @@
 {
-  "blue-700": {
-    "value": "#9bab00",
-    "type": "color"
-  },
-  "grey-900": {
-    "value": "#333333",
-    "type": "color"
-  },
-  "grey-500": {
-    "value": "#808080",
-    "type": "color"
-  },
-  "blue-600": {
-    "value": "#4a90e2",
-    "type": "color"
-  },
-  "blue-200": {
-    "value": "#c6cfe9",
-    "type": "color"
-  },
-  "st-blue": {
-    "value": "#0c2b57",
-    "type": "color"
-  },
-  "st-blue-700": {
-    "value": "#12239a",
-    "type": "color"
-  },
-  "st-turquoise": {
-    "value": "#13fdfd",
-    "type": "color"
-  },
-  "white": {
-    "value": "#fff",
-    "type": "color"
+  "color": {
+    "blue-700": {
+      "value": "#9bab00",
+      "type": "color"
+    },
+    "grey-900": {
+      "value": "#333333",
+      "type": "color"
+    },
+    "grey-500": {
+      "value": "#808080",
+      "type": "color"
+    },
+    "blue-600": {
+      "value": "#4a90e2",
+      "type": "color"
+    },
+    "blue-200": {
+      "value": "#c6cfe9",
+      "type": "color"
+    },
+    "st-blue": {
+      "value": "#0c2b57",
+      "type": "color"
+    },
+    "st-blue-700": {
+      "value": "#12239a",
+      "type": "color"
+    },
+    "st-turquoise": {
+      "value": "#13fdfd",
+      "type": "color"
+    },
+    "white": {
+      "value": "#fff",
+      "type": "color"
+    }
   },
   "fontFamilies": {
     "source-sans-pro": {
@@ -91,19 +93,25 @@
       "type": "spacing"
     }
   },
-  "Uppercase": {
-    "value": "uppercase",
-    "type": "textCase"
+  "textCase": {
+    "Uppercase": {
+      "value": "uppercase",
+      "type": "textCase"
+    },
+    "normal": {
+      "value": "none",
+      "type": "textCase"
+    }
   },
   "shadow": {
     "background": {
       "value": {
         "color": "#0000001a",
         "type": "dropShadow",
-        "x": 5,
-        "y": 5,
-        "blur": 10,
-        "spread": 0
+        "x": "5",
+        "y": "5",
+        "blur": "10",
+        "spread": "0"
       },
       "type": "boxShadow"
     }

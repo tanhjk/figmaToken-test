@@ -1,6 +1,6 @@
 {
   "highlightText": {
-    "value": "{blue-700}",
+    "value": "{color.blue-700}",
     "type": "color"
   },
   "coreText": {
