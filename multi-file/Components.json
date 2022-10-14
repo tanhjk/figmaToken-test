@@ -6,7 +6,7 @@
       "horizontalPadding": "{spacing.md}",
       "fill": "{background}",
       "spacing": "{spacing.lg}",
-      "boxShadow": "{shadow.background}"
+      "boxShadow": "{shadow.card}"
     },
     "type": "composition",
     "description": "Component Token for Card"

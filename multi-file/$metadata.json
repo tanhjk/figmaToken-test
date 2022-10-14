@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
     "identities",
-    "colorToken",
-    "desktop",
+    "colorTokens",
+    "typeTokens",
     "Components",
     "st",
     "st-dark"
