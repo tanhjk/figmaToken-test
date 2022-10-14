@@ -4,23 +4,23 @@
     "type": "color"
   },
   "coreText": {
-    "value": "{grey-900}",
+    "value": "{color.grey-900}",
     "type": "color"
   },
   "mutedText": {
-    "value": "{grey-500}",
+    "value": "{color.grey-500}",
     "type": "color"
   },
   "linkText": {
-    "value": "{blue-600}",
+    "value": "{color.blue-600}",
     "type": "color"
   },
   "hoverLinkText": {
-    "value": "{blue-200}",
+    "value": "{color.blue-200}",
     "type": "color"
   },
   "background": {
-    "value": "{white}",
+    "value": "{color.white}",
     "type": "color"
   }
 }
