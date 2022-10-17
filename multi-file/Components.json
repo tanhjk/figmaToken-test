@@ -1,7 +1,7 @@
 {
   "Card": {
     "value": {
-      "borderRadius": "{borderRadius.card}",
+      "borderRadius": "{size.borderRadius.card}",
       "verticalPadding": "{spacing.md}",
       "horizontalPadding": "{spacing.md}",
       "fill": "{colorTokens.background}",

@@ -37,15 +37,47 @@
       "type": "color"
     }
   },
-  "borderRadius": {
-    "card": {
-      "value": "32",
-      "type": "borderRadius"
+  "size": {
+    "borderRadius": {
+      "card": {
+        "value": "32",
+        "type": "borderRadius"
+      },
+      "form": {
+        "value": "8",
+        "type": "borderRadius",
+        "description": "This is used for forms"
+      }
     },
-    "form": {
-      "value": "8",
-      "type": "borderRadius",
-      "description": "This is used for forms"
+    "font": {
+      "0": {
+        "value": "13",
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": "18",
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": "24",
+        "type": "fontSizes"
+      },
+      "5": {
+        "value": "36",
+        "type": "fontSizes"
+      },
+      "6": {
+        "value": "48",
+        "type": "fontSizes"
+      }
     }
   },
   "spacing": {
@@ -128,38 +160,6 @@
       "curator-head-st-bold": {
         "value": "Curator Head ST Bold",
         "type": "fontFamilies"
-      }
-    }
-  },
-  "size": {
-    "font": {
-      "0": {
-        "value": "13",
-        "type": "fontSizes"
-      },
-      "1": {
-        "value": "14",
-        "type": "fontSizes"
-      },
-      "2": {
-        "value": "16",
-        "type": "fontSizes"
-      },
-      "3": {
-        "value": "18",
-        "type": "fontSizes"
-      },
-      "4": {
-        "value": "24",
-        "type": "fontSizes"
-      },
-      "5": {
-        "value": "36",
-        "type": "fontSizes"
-      },
-      "6": {
-        "value": "48",
-        "type": "fontSizes"
       }
     }
   }
